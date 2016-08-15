@@ -1,0 +1,8 @@
+body {
+}
+body.a {
+    box-shadow: 1px 1px 0 1px #f00;
+    -webkit-box-shadow: 1px 1px 0 1px #f00;
+    -moz-box-shadow: 1px 1px 0 1px #f00;
+    color: adf
+}

@@ -1,0 +1,6 @@
+body {
+	&.a {
+		box-shadow: 1px 1px 0 1px red;
+		color: $adf;
+	}
+}

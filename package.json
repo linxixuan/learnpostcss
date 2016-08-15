@@ -1,0 +1,29 @@
+{
+  "name": "learnpostcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "precss": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxixuan/learnpostcss.git"
+  },
+  "keywords": [
+    "postcss"
+  ],
+  "author": "linxixuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxixuan/learnpostcss/issues"
+  },
+  "homepage": "https://github.com/linxixuan/learnpostcss#readme"
+}
